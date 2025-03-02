@@ -8,7 +8,8 @@
     Deze dienen te worden vervangen door de URL's van de nieuwe website:
     https://www.rijnmondvloeren.nl
 -->
-<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:c="http://base.google.com/ns/1.0" version="2.0">
+  <script id="nCcaeEIZbK--NcxGZHOCZFLYC7" type="text/javascript"/>
   <channel>
     <title>Voorbeeld Product Feed</title>
     <link>https://www.rijnmondvloeren.nl/googlefeed.xml</link>
